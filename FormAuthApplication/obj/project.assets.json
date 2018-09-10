@@ -12311,11 +12311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAURABH\\source\\repos\\FormAuthApplication\\FormAuthApplication\\FormAuthApplication.csproj",
+      "projectUniqueName": "C:\\Users\\SAURABH\\Desktop\\FormAuthApplication\\FormAuthApplication\\FormAuthApplication.csproj",
       "projectName": "FormAuthApplication",
-      "projectPath": "C:\\Users\\SAURABH\\source\\repos\\FormAuthApplication\\FormAuthApplication\\FormAuthApplication.csproj",
+      "projectPath": "C:\\Users\\SAURABH\\Desktop\\FormAuthApplication\\FormAuthApplication\\FormAuthApplication.csproj",
       "packagesPath": "C:\\Users\\SAURABH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAURABH\\source\\repos\\FormAuthApplication\\FormAuthApplication\\obj\\",
+      "outputPath": "C:\\Users\\SAURABH\\Desktop\\FormAuthApplication\\FormAuthApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

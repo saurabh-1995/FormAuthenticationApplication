@@ -25,7 +25,7 @@ namespace FormAuthApplication.Controllers
             LoginCredentials user = userDetail.Where(x => x.UserID == loginDetailsModel.UserID && x.Password == loginDetailsModel.Password).FirstOrDefault();
             if(user!=null)
             {
-                return RedirectToAction("Dashboard", "LoginCredentials", user);
+                return RedirectToAction("Dashboard","Login",  user);
             }
             return RedirectToAction("Index");
         }

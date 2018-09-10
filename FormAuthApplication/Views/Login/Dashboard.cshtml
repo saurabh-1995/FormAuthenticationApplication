@@ -1,10 +1,18 @@
 ﻿@using FormAuthApplication.DAL;
-@model LoginDetailsModel
+@model LoginCredentials
 @{
     ViewData["Title"] = "Dashboard";
 }
 
-<h2>Dashboard</h2>
-<h2>Hello @Model.UserID</h2>
+
+
+<h2>Hello</h2><br />
+UserID:
+<h4>@Model.UserID</h4><br />
+Name:
+<h4>@Model.FirstName
+    @Model.LastName</h4><br />
+EmailID:
+<h4>@Model.EmailID</h4>
 
 
